@@ -1,6 +1,6 @@
-# Statistics 289
+# Statistics 209
 
-![](https://img.shields.io/badge/Tutorial_Completion-0/0-brightgreen.svg)
+![](https://img.shields.io/badge/Lab_Completion-0/0-brightgreen.svg)
 ![](https://img.shields.io/badge/Project_Completion-0/0-brightgreen.svg)
 
 This repository is where you will submit all of your completed work for
